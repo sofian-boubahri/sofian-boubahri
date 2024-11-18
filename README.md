@@ -31,11 +31,6 @@
 ---
 
 ### 👾 Me contacter dans l'espace
-📡 **Email** : [tonemail@example.com](mailto:tonemail@example.com)  
-🛰️ **LinkedIn** : [Ton LinkedIn](https://www.linkedin.com/in/ton-profil)  
+📡 **Email** : [sofianboubahri@gmail.com](sofianboubahri@gmail.com)  
+🛰️ **LinkedIn** : [Ton LinkedIn](https://www.linkedin.com/in/sofian-boubahri-71a521271/)  
 
----
-
-### ⭐ Bonus : Laissez une étoile
-Si mes projets vous plaisent, n'hésitez pas à appuyer sur le bouton **⭐** et à rejoindre mon équipage !  
-Merci de voyager dans mon univers GitHub ! 🌟
