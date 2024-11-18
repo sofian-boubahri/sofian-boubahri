@@ -7,13 +7,10 @@ Je suis étudiant à l'école **[La Plateforme](https://laplateforme.io/)**, une
 
 ### 💡 Projets à découvrir
 
-#### 🛠 **Error404**
-Un projet captivant qui explore le monde des erreurs web et leurs solutions créatives. C'est plus qu'une simple page d'erreur, c'est une expérience utilisateur innovante ! Consultez le dépôt pour voir comment nous avons transformé un simple problème en opportunité.  
-➡️ [Voir le projet Error404](#)
-
-#### 🎵 **Daft Punk Tribute**
-Un hommage interactif à l'un des plus grands duos de musique électronique. Ce projet combine technologie et musique pour offrir une expérience unique inspirée par les sons et visuels emblématiques de Daft Punk.  
-➡️ [Voir le projet Daft Punk](#)
+| Nom du Projet       | Description                                                                 | Liens                                                                 |
+|---------------------|-----------------------------------------------------------------------------|----------------------------------------------------------------------|
+| 🛠 **Error404**      | Un projet explorant le monde des erreurs web et leurs solutions créatives.  | [Voir le projet](#)                                                  |
+| 🎵 **Daft Punk Tribute** | Un hommage interactif inspiré des sons et visuels emblématiques de Daft Punk. | [Voir le projet](#)                                                  |
 
 ---
 
