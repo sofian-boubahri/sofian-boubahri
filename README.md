@@ -16,7 +16,7 @@
 
 ### 📊 Mes Statistiques Galactiques
 
-![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=sofian-boubahri&show_icons=true&theme=radical&count_private=true) ![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=sofian-boubahri&layout=compact&theme=radical)  
+![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=sofian-boubahri&show_icons=true&theme=radical&count_private=true)  ![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=sofian-boubahri&layout=compact&theme=radical)  
 
 > **Note** : Les statistiques incluent uniquement les dépôts publics et les contributions open source.
 
