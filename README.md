@@ -23,10 +23,9 @@
 ---
 
 ### 🔧 Technologies de Bord
-- 🖥️ **Langages** : HTML, CSS, JavaScript, Python  
+- 🖥️ **Langages** : HTML, CSS, JavaScript
 - 🚀 **Frameworks** : React, Node.js  
-- 🛠️ **Outils** : Git, Docker, Linux  
-- 🌌 **Méthodes** : Développement agile, Clean Code  
+- 🛠️ **Outils** : Git, Linux  
 
 ---
 
