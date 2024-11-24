@@ -20,7 +20,7 @@
 
 ---
 
-### 👾 Me contacter dans l'espace
+### 👾 Me contacter
 📡 **Email** : [sofianboubahri@gmail.com](sofianboubahri@gmail.com)  
 🛰️ **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/sofian-boubahri-71a521271/)  
 
