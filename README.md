@@ -1,4 +1,4 @@
-# 🌌 Bienvenue dans ma galaxie GitHub !
+# 🌌 Bienvenue dans mon GitHub !
 
 ### 👨‍🚀 Qui suis-je ?
 Étudiant à l'école **[La Plateforme](https://laplateforme.io/)**, je suis en mission pour explorer les frontières du développement et des nouvelles technologies. Mon objectif : conquérir l'univers numérique, une ligne de code à la fois. 🚀
@@ -22,5 +22,5 @@
 
 ### 👾 Me contacter dans l'espace
 📡 **Email** : [sofianboubahri@gmail.com](sofianboubahri@gmail.com)  
-🛰️ **LinkedIn** : [Ton LinkedIn](https://www.linkedin.com/in/sofian-boubahri-71a521271/)  
+🛰️ **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/sofian-boubahri-71a521271/)  
 
