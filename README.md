@@ -4,7 +4,7 @@
 Étudiant à l'école **[La Plateforme](https://laplateforme.io/)**, passionné par le développement web et la cybersécurité.  
 ---
 
-### 📊 Mes Statistiques Galactiques
+### 📊 Mes Statistiques
 
 ![Mes statistiques GitHub](https://github-readme-stats.vercel.app/api?username=sofian-boubahri&show_icons=true&theme=radical&count_private=true) ![Langues les plus utilisées](https://github-readme-stats.vercel.app/api/top-langs/?username=sofian-boubahri&layout=compact&theme=radical)  
 
