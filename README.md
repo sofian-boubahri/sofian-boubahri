@@ -12,6 +12,18 @@
 
 ---
 
+### 🛠️ Projets 
+
+| Projet | Description    | Lien    |
+|------------------|---------------|---------|
+| Daft Punk | Fansite pour le groupe Daft Punk en utilisant du HTML/CSS | [Daft Punk](https://github.com/sofian-boubahri/daft-punk) |
+| Error 404 | Site Error 404 en utilisant du HTML/CSS | [Error 404](https://github.com/sofian-boubahri/error-404) |
+| Git Begins | Readme pour apprendre à utiliser les commandes GIT | [Git Begins](https://github.com/sofian-boubahri/git-begins) |
+
+> **Note** : Les projets listés ci-dessous sont ceux que j'ai réalisés dans le cadre de mes études ou de mes initiatives personnelles.
+> 
+---
+
 ### 🔧 Technologies
 - 🖥️ **Langages** : HTML, CSS, JavaScript, Python
 - 🚀 **Frameworks** : React, Node.js
@@ -22,4 +34,3 @@
 ### 👾 Me contacter
 📡 **Email** : [sofianboubahri@gmail.com](sofianboubahri@gmail.com)  
 🛰️ **LinkedIn** : [LinkedIn](https://www.linkedin.com/in/sofian-boubahri-71a521271/)  
-
