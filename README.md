@@ -16,9 +16,9 @@
 
 | Projet | Description    | Lien    |
 |------------------|---------------|---------|
-| Daft Punk | Fansite pour le groupe Daft Punk en utilisant du HTML/CSS | [Daft Punk](https://github.com/sofian-boubahri/daft-punk) |
-| Error 404 | Site Error 404 en utilisant du HTML/CSS | [Error 404](https://github.com/sofian-boubahri/error-404) |
-| Git Begins | Readme pour apprendre à utiliser les commandes GIT | [Git Begins](https://github.com/sofian-boubahri/git-begins) |
+| VoIP | Création d'un serveur VoIP avec Asterisk; | [VoIP](https://github.com/sofian-boubahri/voip) |
+| Machine Virtuelle | Documentation pour apprendre à crée une Machine Virtuelle.  | [VM Setup](https://github.com/sofian-boubahri/vm-setup) |
+| Tic Tac Toe | Création du jeu Tic Tac Toe en python.| [Tic Tac Toe](https://github.com/sofian-boubahri/tic-tac-toe) |
 
 > **Note** : Les projets listés ci-dessous sont ceux que j'ai réalisés dans le cadre de mes études ou de mes initiatives personnelles.
 > 
